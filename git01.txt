@@ -1,2 +1,9 @@
 zzr is studying Git!
 Bye.
+----------------------
+git status test.
+Bye.
+----------------------
+Git Study.
+Bye.
+
