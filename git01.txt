@@ -7,3 +7,5 @@ Bye.
 Git Study.
 Bye.
 
+
+Chinese Test.
